@@ -14,7 +14,7 @@ function App() {
       <footer className="footer">
         <p>Check out my Travel Photography on Insatgram</p>
         <a href="https://www.instagram.com/iamdarshangowda/">
-          <FaInstagramSquare size="1.25em" /> darshan gowda
+          <FaInstagramSquare size="1.15em" /> darshan gowda
         </a>
       </footer>
     </div>
