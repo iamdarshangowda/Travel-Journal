@@ -1,4 +1,4 @@
-Travel Journal | <a href="https://627792b307325328ab193c26--inspiring-crisp-ad0736.netlify.app/">DEMO</a>
+Travel Journal | <a href="https://inspiring-crisp-ad0736.netlify.app/">DEMO</a>
 
 # Getting Started with Create React App
 
